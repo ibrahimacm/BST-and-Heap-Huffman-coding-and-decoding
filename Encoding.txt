@@ -1,0 +1,19 @@
+Tree: 
+(18) (8, 0) (f, 4, 0) # # (4, 1) (g, 1, 0) # # (a, 3, 1) # # (10, 1) (d, 5, 0) # # (s, 5, 1) # # 
+ 
+Encoding:
+0111110000100010110111110001011011111000
+
+The size before Huffman coding: 
+144
+The size after Huffman coding: 
+40
+
+Table:
+|    Letter	|	Count	|	Code	|
+       f	   	   4		 00
+       s	   	   5		 11
+       d	   	   5		 10
+       a	   	   3		 011
+       g	   	   1		 010
+

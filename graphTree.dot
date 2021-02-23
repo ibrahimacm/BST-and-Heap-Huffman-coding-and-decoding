@@ -1,0 +1,21 @@
+Graph
+{ 
+n0[label="18"];
+n1[label="8"];
+n0--n1[label="0"];
+n2[label="10"];
+n0--n2[label="1"];
+n3[label="f , 4"];
+n1--n3[label="0"];
+n4[label="4"];
+n1--n4[label="1"];
+n5[label="d , 5"];
+n2--n5[label="0"];
+n6[label="s , 5"];
+n2--n6[label="1"];
+n7[label="g , 1"];
+n4--n7[label="0"];
+n8[label="a , 3"];
+n4--n8[label="1"];
+
+}
